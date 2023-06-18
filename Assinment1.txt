@@ -1,0 +1,5 @@
+• Create an account in github
+• Install git in windows local environment
+• Create repository in github and clone it in local environment
+• Add new file in local environment and push it to github
+• Add more files in local environment and push it to github
